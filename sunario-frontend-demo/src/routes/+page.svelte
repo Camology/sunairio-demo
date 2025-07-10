@@ -11,7 +11,7 @@
   });
   //control which dataset is visible
   let visible = Array(28).fill(false);
-  let isNightMode = false;
+  let isNightMode = true;
   let viewportWidth = 0;
   let viewportHeight = 0;
   let highlightedData;
